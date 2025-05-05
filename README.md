@@ -1,4 +1,4 @@
-## Hi there 👋
+## GitHub Pages menyediakan layanan hosting gratis yang sangat cocok untuk keperluan pembelajaran dan tugas-tugas sederhana seperti ini. Tidak ada biaya berlangganan yang diperlukan.
 
 <!--
 **dewi0022/dewi0022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
